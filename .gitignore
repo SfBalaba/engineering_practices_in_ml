@@ -222,3 +222,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 data/raw/
+
+# Артефакты обучения
+artifacts/*
+!artifacts/.gitkeep
+.env
